@@ -1,0 +1,41 @@
+:root {
+		/* background */
+		--primary-bg: #c9d1f1;
+		--secondary-bg: rgb(43, 3, 81);
+		--third-bg: rgb(145, 209, 232);
+		--bg-gradient: linear-gradient(rgb(143, 200, 181), rgb(217, 207, 249));
+		--bg-gradient-l: linear-gradient(rgb(217, 207, 249), rgb(143, 200, 181));
+	
+		/* text-color */
+		--primary-color: rgb(85, 149, 146);
+		--secondary-color: rgb(17, 10, 110);
+		--third-color: rgb(128, 21, 234);
+	
+		/* font size */
+		--font-size-xl: 3rem;
+		--font-size-l: 1.5rem;
+		--font-size-m: 1rem;
+		--font-size-s: .5rem;
+	
+		/* padding */
+		--padding-xl: 3rem;
+		--padding-l: 2rem;
+		--padding-m: 1rem;
+		--padding-s: .5rem;
+	
+		/* margin */
+		--margin-xl: 3rem;
+		--margin-l: 2rem;
+		--margin-m: 1rem;
+		--margin-s: .5rem;
+	
+		/* box-shadow */
+		--box-shadow-xl: 5px 5px 8px 3px darkmagenta;
+		--box-shadow-l: 2px 2px 3px 1.5px rgb(15, 30, 195);
+		--box-shadow-m: 1px 1px 2px .5px darkmagenta;
+	
+		/* font-family */
+		--ff-primary: 'Lato', sans-serif;
+		--ff-secondary: 'Roboto', sans-serif;
+}
+    
